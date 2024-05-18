@@ -1,0 +1,2 @@
+print("akif afiyet olsun);
+print("rüzgar sahneni bulucam");
