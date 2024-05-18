@@ -1,2 +1,7 @@
 print("akif afiyet olsun);
 print("rüzgar sahneni bulucam");
+
+tankları sür
+engellerden atla
+
+bla bla bla 
