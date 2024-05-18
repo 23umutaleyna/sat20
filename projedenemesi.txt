@@ -3,13 +3,3 @@ print("rüzgar sahneni bulucam");
 
 print("akif afiyet olsun);
 print("rüzgar sahneni bulucam");
-print("akif afiyet olsun);
-print("rüzgar sahneni bulucam");
-
-print("akif afiyet olsun);
-print("rüzgar sahneni bulucam");
-print("akif afiyet olsun);
-print("rüzgar sahneni bulucam");
-
-print("akif afiyet olsun);
-print("rüzgar sahneni bulucam");
